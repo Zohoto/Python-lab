@@ -15,5 +15,5 @@ def money(coin):
         print(str(coin) + " КОПЕЙКИ")
 
 
-coin = int(input())
+coin = int(input("Введите колчиество копеек: "))
 money(coin)
