@@ -5,12 +5,12 @@
 Все задачи выполнены путем использования рекурсии
 
 ##### Задачи:
-1. [N-е число Фибоначчи](https://informatics.msk.ru/mod/statements/view.php?id=253#1 "N-е число Фибоначчи")
-2. [НОД](https://informatics.msk.ru/mod/statements/view.php?id=253&chapterid=154#1 "НОД")
-3. [Ханойские башни](https://informatics.msk.ru/mod/statements/view.php?id=2550#1 "Ханойские башни")
-4. [Ремонт в Ханое](https://informatics.msk.ru/mod/statements/view.php?id=2550&chapterid=3051#1 "Ремонт в Ханое")
-5. [Циклические башни](https://informatics.msk.ru/mod/statements/view.php?id=2550&chapterid=3052#1 "Циклические башни")
-6. [Получить из 1 число N](https://informatics.msk.ru/mod/statements/view.php?id=26735#1 "Получить из 1 число N")
+1. [Получить из 1 число N](https://informatics.msk.ru/mod/statements/view.php?id=26735#1 "Получить из 1 число N")
+2. [N-е число Фибоначчи](https://informatics.msk.ru/mod/statements/view.php?id=253#1 "N-е число Фибоначчи")
+3. [НОД](https://informatics.msk.ru/mod/statements/view.php?id=253&chapterid=154#1 "НОД")
+4. [Ханойские башни](https://informatics.msk.ru/mod/statements/view.php?id=2550#1 "Ханойские башни")
+5. [Ремонт в Ханое](https://informatics.msk.ru/mod/statements/view.php?id=2550&chapterid=3051#1 "Ремонт в Ханое")
+6. [Циклические башни](https://informatics.msk.ru/mod/statements/view.php?id=2550&chapterid=3052#1 "Циклические башни")
 
 
 ------------
