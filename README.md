@@ -9,4 +9,5 @@
 - [lab7](https://github.com/Zohoto/Andrew/tree/master/lab7 "lab7") </br>
 - [lab7_star](https://github.com/Zohoto/Andrew/tree/master/lab7_star "lab7_star") </br>
 - [lab8](https://github.com/Zohoto/Andrew/tree/master/lab8 "lab8") </br>
+- [lab9](https://github.com/Zohoto/Andrew/tree/master/lab9 "lab9") </br>
 Я дополнял *README*, для полного понимания кода внутри папки
